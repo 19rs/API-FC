@@ -1,0 +1,52 @@
+{
+    "Pais": [
+        {
+            "id": 1,
+            "continente": "Europa",
+            "nome": "Alemanha",
+            "bandeira": "../img/bandeiras/big/de.png",
+            "campeonatos": [ "Bundesliga", "2. Bundesliga", "3. Liga" ],
+            "copas": [ "DFB-Pokal", "DFL-Supercup" ]
+        },
+        {
+            "id": 2,
+            "continente": "Europa",
+            "nome": "Espanha",
+            "bandeira": "../img/bandeiras/big/es.png",
+            "campeonatos": [ "La Liga", "La Liga 2" ],
+            "copas": [ "Copa del Rey", "Supercopa de España" ]
+        },
+        {
+            "id": 4,
+            "continente": "Europa",
+            "nome": "Inglaterra",
+            "bandeira": "../img/bandeiras/big/gb-eng.png",
+            "campeonatos": [ "Premier League", "EFL Championship", "EFL League One", "EFL League Two" ],
+            "copas": [ "FA Cup", "EFL Cup", "FA Community Shield" ]
+        },
+        {
+            "id": 5,
+            "continente": "Europa",
+            "nome": "Itália",
+            "bandeira": "../img/bandeiras/big/it.png",
+            "campeonatos": [ "Serie A", "Serie B" ],
+            "copas": [ "Coppa Italia", "Supercoppa Italiana" ]
+        },
+        {
+            "id": 6,
+            "continente": "América do Sul",
+            "nome": "Brasil",
+            "bandeira": "../img/bandeiras/big/br.png",
+            "campeonatos": [ "Brasileirão Série A", "Brasileirão Série B", "Brasileirão Série C", "Brasileirão Série D" ],
+            "copas": [ "Copa do Brasil", "Supercopa do Brasil" ]
+        },
+        {
+            "id": 7,
+            "continente": "Europa",
+            "nome": "França",
+            "bandeira": "../img/bandeiras/big/fr.png",
+            "campeonatos": [ "Ligue 1", "Ligue 2" ],
+            "copas": [ "Coupe de France", "Trophée des Champions" ]
+        }
+    ]
+}
